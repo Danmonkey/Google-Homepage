@@ -1,0 +1,30 @@
+p{
+    -webkit-appearance: none;
+    text-align: center;
+}
+
+.center{
+    margin-top: 200px;
+}
+
+#bottom{
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+}
+
+form{
+    text-align: center;
+}
+
+li{
+    size: 5;
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    float:left;
+}
+.right-float{
+    float: right;
+}
+
